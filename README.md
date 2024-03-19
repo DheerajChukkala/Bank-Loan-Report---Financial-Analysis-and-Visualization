@@ -1,0 +1,2 @@
+# Bank-Loan-Report---Financial-Analysis-and-Visualization
+This finance dashboard project entails end-to-end data pipeline for bank loan data, including extraction, cleaning, and transformation in Excel and Querying on MySQL on multiple levels of granularity conducting an in-depth data analysis on loan disbursements, repayments, key metrics further visualizing insights gained on 3 Tableau Dashboards
